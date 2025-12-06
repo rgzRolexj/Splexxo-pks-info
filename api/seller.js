@@ -1,5 +1,5 @@
 // ==================== CONFIG =====================
-const YOUR_API_KEYS = ["SPLEXXO"];
+const YOUR_API_KEYS = ["ROLEX"];
 const TARGET_API = "https://pakistan-num-info.gauravcyber0.workers.dev/";
 const CACHE_TIME = 3600 * 1000;
 // =================================================
